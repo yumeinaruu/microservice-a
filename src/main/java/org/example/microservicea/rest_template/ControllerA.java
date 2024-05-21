@@ -1,4 +1,4 @@
-package org.example.microservicea;
+package org.example.microservicea.rest_template;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.LinkedMultiValueMap;
